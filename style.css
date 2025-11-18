@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+
+
+p:hover{
+    color: rgb(227, 151, 151);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li:hover{
+    color: rgb(147, 184, 212);
+}
